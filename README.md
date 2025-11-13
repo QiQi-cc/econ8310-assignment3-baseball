@@ -14,3 +14,21 @@ Some checks you can make on your own:
 - Does your script train a neural network on the assigned data?
 - Did your script save your model?
 - Do you have separate code to import your model for use after training?
+
+
+
+
+
+# Assignment 3 — ECON 8310
+
+This repository contains my implementation for Assignment 3, including:
+- A custom PyTorch dataset (dataset.py)
+- A neural network model (model.py)
+- Training script (train.py)
+- Inference script (inference.py)
+
+Download the dataset from the instructor’s OneDrive (Canvas) and place it in:  
+`data/Project Frames/`
+
+Run training with `python train.py` and inference with `python inference.py`.
+
