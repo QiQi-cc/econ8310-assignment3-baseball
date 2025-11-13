@@ -19,7 +19,7 @@ Some checks you can make on your own:
 
 
 
-# Assignment 3 — ECON 8310
+# Answer Assignment 3 — ECON 8310
 
 This repository contains my implementation for Assignment 3, including:
 - A custom PyTorch dataset (dataset.py)
